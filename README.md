@@ -13,7 +13,7 @@
 
 Sou fascinado por tecnologia e educação e acredito no poder da tecnologia para transformar vidas.
 
-<p>🔗 Contact me via LinkedIn <a  target="_blank href="https://www.linkedin.com/in/eduardogodinhoo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+<p>🔗 Contact me via LinkedIn <a  href="https://www.linkedin.com/in/eduardogodinhoo/" target="_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
 
 
