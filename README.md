@@ -11,7 +11,7 @@
     <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br>
 
-Sou fascinado por tecnologia e educação e acredito no poder da tecnologia para transformar vidas.
+Sou fascinado por tecnologia, educação e acredito no poder da tecnologia para transformar vidas.
 
 <p>🔗 Contact me via LinkedIn <a  href="https://www.linkedin.com/in/eduardogodinhoo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
