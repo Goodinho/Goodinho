@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Eduardo Godinho 👆
-![eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=goodinho&show_icons=true&theme=dark)
 
 ## Tecnólogias que eu uso no meu dia
 
