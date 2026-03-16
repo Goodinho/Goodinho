@@ -1,6 +1,9 @@
-### Olá! Eu sou o Eduardo Godinho 👆
+Olá! Eu sou o Eduardo Godinho 👋
 
-## Tecnólogias que eu uso no meu dia
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvendo projetos em Java e Programação Orientada a Objetos  
+
+Aqui você encontrará alguns dos projetos que utilizo para praticar programação.
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
